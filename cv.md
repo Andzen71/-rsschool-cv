@@ -1,15 +1,15 @@
 # **Artem Zhirov**
----
-## *Junior Frontend Developer*
----
-## **Contact information:**
-Phone: +79995129849
-E-mail: temazhirov99@gmail.com
-Telegram @Andzen71
----
-## **Something About Myself:**
 
-I promise that I will fill it...
+## *Junior Frontend Developer*
+
+## **Contact information:**
+- Phone: +79995129849
+- E-mail: temazhirov99@gmail.com
+- Telegram @Andzen71
+---
+## **Something About Myself**
+I promise that i will fill&fix it...
+
 ---
 ## **Skills and Proficiency:**
 
@@ -20,7 +20,7 @@ I promise that I will fill it...
 + VS Code, VIM
 + Figma
 ---
-** Code Example:
+**Code Example:**
 Some code
 ```
 let js = new arr[];
@@ -35,6 +35,6 @@ console.log
 ## **Courses:**
 ---
 ## **Contact information:**
-Phone: +79995129849
-E-mail: temazhirov99@gmail.com
-Telegram @Andzen71
++ Phone: +79995129849
++ E-mail: temazhirov99@gmail.com
++ Telegram @Andzen71
